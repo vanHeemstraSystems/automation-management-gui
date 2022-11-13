@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/automation-management-gui/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/automation-management-gui/actions/workflows/publish.yml)
+
 automation-management-gui
 # Automation Management Graphical User Interface (GUI)
 
