@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Foo Management GUI](README.md)
+* [Automation Management GUI](README.md)
