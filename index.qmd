@@ -1,5 +1,5 @@
 ---
-title: "Foo Management GUI"
+title: "Automation Management GUI"
 ---
 
 This is a Quarto website.
